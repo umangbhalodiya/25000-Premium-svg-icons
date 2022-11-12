@@ -9,3 +9,6 @@
 -  AWS Cloudscape theme icons
 
 -  500 GitHub Pro's Octicon Icons.
+
+-  1400 Ionic Icons.
+
