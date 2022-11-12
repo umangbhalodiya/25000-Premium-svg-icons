@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_401_59588)">
+<path opacity="0.3" d="M4.43994 20H10.9999V18H4.83994L4.43994 20Z" fill="black"/>
+<path opacity="0.3" d="M18.36 14H13V16H18.76L18.36 14Z" fill="black"/>
+<path opacity="0.3" d="M13 18V20H19.56L19.16 18H13Z" fill="black"/>
+<path opacity="0.3" d="M5.23999 16H11V14H5.63999L5.23999 16Z" fill="black"/>
+<path d="M20 12H4L2 22H22L20 12ZM13 14H18.36L18.76 16H13V14ZM11 20H4.44L4.84 18H11V20ZM11 16H5.24L5.64 14H11V16ZM13 20V18H19.16L19.56 20H13Z" fill="black"/>
+<path d="M13 8H11V11H13V8Z" fill="black"/>
+<path d="M17.1787 5.79088L15.7645 7.20508L17.8858 9.32638L19.3 7.91218L17.1787 5.79088Z" fill="black"/>
+<path d="M6.82613 5.79154L4.70483 7.91284L6.11903 9.32704L8.24033 7.20574L6.82613 5.79154Z" fill="black"/>
+<path d="M6 2H3V4H6V2Z" fill="black"/>
+<path d="M21 2H18V4H21V2Z" fill="black"/>
+<path d="M12 7C14.76 7 17 4.76 17 2H15C15 3.65 13.65 5 12 5C10.35 5 9 3.65 9 2H7C7 4.76 9.24 7 12 7Z" fill="black"/>
+<path opacity="0.3" d="M15 2C15 3.66 13.66 5 12 5C10.34 5 9 3.66 9 2H15Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_401_59588">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
