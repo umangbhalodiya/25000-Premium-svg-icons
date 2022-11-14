@@ -12,3 +12,5 @@
 
 -  1400 Ionic Icons.
 
+-  <a href="https://eyecon.netlify.app" target="_blank">Eyecon</a>
+
