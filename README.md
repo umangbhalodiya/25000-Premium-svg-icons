@@ -6,6 +6,10 @@
 
 -  3,000 Bootstrap png / svg icons
 
+-  500 Application brand logo's icons
+
+-  1800+ Font awesome icons
+
 -  Broken Icons
 
 -  AWS Cloudscape theme icons
