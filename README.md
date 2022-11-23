@@ -4,6 +4,8 @@
 
 -  4,000 UKO Theme Premium Icons includes all varients ( success, primary, secondary, dark, light, danger, info )
 
+-  3,000 Bootstrap png / svg icons
+
 -  Broken Icons
 
 -  AWS Cloudscape theme icons
