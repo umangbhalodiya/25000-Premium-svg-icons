@@ -6,17 +6,17 @@
 
 -  3,000 Bootstrap png / svg icons
 
--  500 Application brand logo's icons
+-  500 Application brand logo's svg icons
 
--  1800+ Font awesome icons
+-  1800+ Font awesome svg / png icons
 
 -  Broken Icons
 
--  AWS Cloudscape theme icons
+-  AWS Cloudscape theme svg icons
 
 -  500 GitHub Pro's Octicon Icons.
 
--  1400 Ionic Icons.
+-  1400 Ionic svg Icons.
 
 -  <a href="https://eyecon.netlify.app" target="_blank">Eyecon</a>
 
