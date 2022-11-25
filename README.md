@@ -2,7 +2,7 @@
 
 -  10,000 MUI-5 icons includes ( Filled, Outlined, Rounded, Two tone, Sharped ) 
 
--  4,000 UKO Theme Premium Icons includes all varients ( success, primary, secondary, dark, light, danger, info )
+-  4,000 UKO Theme Premium Icons includes all varients ( success, primary, secondary, dark, light, danger, info, warning )
 
 -  3,000 Bootstrap png / svg icons
 
