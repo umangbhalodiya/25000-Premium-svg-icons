@@ -6,7 +6,7 @@
 
 - 3,000 Bootstrap png / svg icons
 
-- 500 Application brand logo's svg icons
+- 500+ Application brand logo's svg icons
 
 - 1800+ Font awesome svg / png icons
 
@@ -16,11 +16,11 @@
 
 - 500 GitHub Pro's Octicon Icons.
 
-- 1400 Ionic svg Icons.
+- 1400+ Ionic svg Icons.
 
-- 500 Imaterial Pro Regular / Light / Duotone Icons
+- 500+ Imaterial Pro Regular / Light / Duotone Icons
 
-- 900 doodle Png / Svg Icons
+- 900+ doodle Png / Svg Icons
 
 - 850+ Lucide Icons
 
