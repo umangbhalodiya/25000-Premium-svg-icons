@@ -16,12 +16,12 @@
 
 - 500 GitHub Pro's Octicon Icons.
 
-- 1400+ Ionic svg Icons.
+- 1400+ Ionic Svg Icons.
 
 - 500+ Imaterial Pro Regular / Light / Duotone Icons
 
 - 900+ doodle Png / Svg Icons
 
-- 850+ Lucide Icons
+- 850+ Lucide Svg Icons
 
 - <a href="https://eyecon.netlify.app" target="_blank">Eyecon</a>
