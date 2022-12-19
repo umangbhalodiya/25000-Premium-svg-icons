@@ -1,22 +1,23 @@
 <center><h4><p align="center"> Premium Icons Collection </p></h4></center>
 
--  10,000 MUI-5 icons includes ( Filled, Outlined, Rounded, Two tone, Sharped ) 
+- 10,000 MUI-5 icons includes ( Filled, Outlined, Rounded, Two tone, Sharped )
 
--  4,000 UKO Theme Premium Icons includes all varients ( success, primary, secondary, dark, light, danger, info )
+- 4,000 UKO Theme Premium Icons includes all varients ( success, primary, secondary, dark, light, danger, info )
 
--  3,000 Bootstrap png / svg icons
+- 3,000 Bootstrap png / svg icons
 
--  500 Application brand logo's svg icons
+- 500 Application brand logo's svg icons
 
--  1800+ Font awesome svg / png icons
+- 1800+ Font awesome svg / png icons
 
--  Broken Icons
+- Broken Icons
 
--  AWS Cloudscape theme svg icons
+- AWS Cloudscape theme svg icons
 
--  500 GitHub Pro's Octicon Icons.
+- 500 GitHub Pro's Octicon Icons.
 
--  1400 Ionic svg Icons.
+- 1400 Ionic svg Icons.
 
--  <a href="https://eyecon.netlify.app" target="_blank">Eyecon</a>
+- 500 Imaterial Pro Regular / Light / Duotone Icons
 
+- <a href="https://eyecon.netlify.app" target="_blank">Eyecon</a>
