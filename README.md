@@ -22,4 +22,6 @@
 
 - 900 doodle Png / Svg Icons
 
+- 850+ Lucide Icons
+
 - <a href="https://eyecon.netlify.app" target="_blank">Eyecon</a>
